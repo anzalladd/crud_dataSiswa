@@ -5,7 +5,7 @@
  <!DOCTYPE html>
  <html>
  <head>
- 	<title>Tambah Data</title>
+ 	<title>Anzalla Dzikri Dhamara</title>
  </head>
  <body>
  	<form method="post">
