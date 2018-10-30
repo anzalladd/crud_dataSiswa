@@ -11,7 +11,7 @@
 	<table align="center" border="1" width="70%">
 		<tr>
 			<td colspan="6">
-				<h3><center>DATA</center></h3>
+				<h3><center>Data</center></h3>
 				<a href="index.php">Tambah</a>
 			</td>
 		</tr>

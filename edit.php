@@ -42,7 +42,7 @@
  			?>
  			<script type="text/javascript">
  				alert('Tamabah Data Berhasil ');
- 				document.location.href="main.php";
+ 				document.location.href="index.php";
  			</script>
  			<?php
  		}
